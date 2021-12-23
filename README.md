@@ -20,10 +20,10 @@ currently still a **work in progress**. This network is able to learn _and, or, 
   works using `.test()`.
 
 ## Math
-    * The theory and math used to create this entire project comes from:
-        * `https://www.3blue1brown.com/lessons/neural-networks`
-        * YouTube Playlist `3blue1brown: Neural Networks`
-        * `http://neuralnetworksanddeeplearning.com/index.html`
-        * `https://www.machinecurve.com/index.php/2020/02/26/getting-out-of-loss-plateaus-by-adjusting-learning-rates/`
+* The theory and math used to create this entire project comes from:
+    * `https://www.3blue1brown.com/lessons/neural-networks`
+    * YouTube Playlist `3blue1brown: Neural Networks`
+    * `http://neuralnetworksanddeeplearning.com/index.html`
+    * `https://www.machinecurve.com/index.php/2020/02/26/getting-out-of-loss-plateaus-by-adjusting-learning-rates/`
 
 
