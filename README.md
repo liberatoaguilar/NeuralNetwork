@@ -214,4 +214,4 @@ Input: 0 0 Prediction: 0
 Input: 1 0 Prediction: 0.0495656 
 Input: 0 1 Prediction: 0.19744 
 Input: 1 1 Prediction: 0.807
-`
+```
